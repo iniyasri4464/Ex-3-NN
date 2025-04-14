@@ -109,7 +109,8 @@ predict(w1,w2,test)
 <H3>Output:</H3>
 
 
-![image](https://github.com/user-attachments/assets/4f1e9ca7-9fda-4d44-9ff3-7efc07977ae0)
+![image](https://github.com/user-attachments/assets/53bb4f72-8ce7-48bf-aa3e-180c180b08ab)
+
 
 
 <H3> Result:</H3>
